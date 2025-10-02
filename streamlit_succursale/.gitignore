@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit local config
+.streamlit/
+
+# Secrets
+.env
+
+# Données lourdes
+assets/*.png
+
+
+# OneDrive metadata
+desktop.ini
